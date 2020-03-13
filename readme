@@ -9,4 +9,3 @@ The core model is the traditional sequence-to-sequence model with attention. It 
 
 The results described below are based on model trained on multi-gpu and multi-machine settings. It has been simplified to run on only one machine for open source purpose.
 
-test
